@@ -9,7 +9,11 @@ It enables users to pay for services using cryptocurrency through recurring paym
 This project demonstrates how blockchain can power **trustless, automated subscription billing**.
 
 ---
+## 📸 Demo
 
+<p align="center">
+  <img src="Screenshot.png" width="700"/>
+</p>
 ## ⚙️ What It Does
 
 This smart contract allows:
